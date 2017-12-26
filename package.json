@@ -1,0 +1,13 @@
+{
+  "name": "angular-directive-converter",
+  "version": "0.0.1",
+  "description": "Compile directive files to Vue SFC",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/hmsk/angular-directive-converter",
+  "author": "hmsk <k.hamasaki@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "esprima": "^4.0.0"
+  }
+}
